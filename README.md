@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming and watching videos.
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me yunnyan_07@hotmail.com
+- 📫 How to reach me yun_nyan@outlook.com
 
 <!---
 csyunny/csyunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
